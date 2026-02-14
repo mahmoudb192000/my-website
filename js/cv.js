@@ -179,6 +179,36 @@ var show=document.getElementById("dscft");
 show.style.display="block";
 show.innerHTML='<p style="font-size: 50px; position: absolute; top: 2%; left:48%; cursor: pointer;margin:0px" onclick="hcft1()">×</p><br><img src="img/cb.jpg" style="width: 80%; height: 80%; position: fixed; top: 10%; left:10%">';
 }
+function cft15(){
+var show=document.getElementById("dscft");
+show.style.display="block";
+show.innerHTML='<p style="font-size: 50px; position: absolute; top: 2%; left:48%; cursor: pointer;margin:0px" onclick="hcft1()">×</p><br><img src="img/cd1.png" style="width: 80%; height: 80%; position: fixed; top: 10%; left:10%">';
+}
+function cft16(){
+var show=document.getElementById("dscft");
+show.style.display="block";
+show.innerHTML='<p style="font-size: 50px; position: absolute; top: 2%; left:48%; cursor: pointer;margin:0px" onclick="hcft1()">×</p><br><img src="img/k1.png" style="width: 80%; height: 80%; position: fixed; top: 10%; left:10%">';
+}
+function cft17(){
+var show=document.getElementById("dscft");
+show.style.display="block";
+show.innerHTML='<p style="font-size: 50px; position: absolute; top: 2%; left:48%; cursor: pointer;margin:0px" onclick="hcft1()">×</p><br><img src="img/k2.png" style="width: 80%; height: 80%; position: fixed; top: 10%; left:10%">';
+}
+function cft18(){
+var show=document.getElementById("dscft");
+show.style.display="block";
+show.innerHTML='<p style="font-size: 50px; position: absolute; top: 2%; left:48%; cursor: pointer;margin:0px" onclick="hcft1()">×</p><br><img src="img/k3.png" style="width: 80%; height: 80%; position: fixed; top: 10%; left:10%">';
+}
+function cft19(){
+var show=document.getElementById("dscft");
+show.style.display="block";
+show.innerHTML='<p style="font-size: 50px; position: absolute; top: 2%; left:48%; cursor: pointer;margin:0px" onclick="hcft1()">×</p><br><img src="img/k4.png" style="width: 80%; height: 80%; position: fixed; top: 10%; left:10%">';
+}
+function cft20(){
+var show=document.getElementById("dscft");
+show.style.display="block";
+show.innerHTML='<p style="font-size: 50px; position: absolute; top: 2%; left:48%; cursor: pointer;margin:0px" onclick="hcft1()">×</p><br><img src="img/k5.png" style="width: 80%; height: 80%; position: fixed; top: 10%; left:10%">';
+}                                                        
 const bubble = document.querySelector(".bubble");
 const tabs = document.querySelector(".tabs");
 tabs.addEventListener("mouseenter", (e) => {
